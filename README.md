@@ -45,7 +45,7 @@ A Python project to send notifications related to a course. This project sends r
 
 Run the notification script:
 ```sh
-python notification.py
+python3 notification.py
 ```
 
 The script will use BeautifulSoup to scrape course information and Twilio to send SMS notifications as configured.
