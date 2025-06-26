@@ -168,4 +168,3 @@ The script will use BeautifulSoup to scrape course information and Twilio to sen
 
 
 *Created by [kvasa02](https://github.com/kvasa02)*
->>>>>>> d9e32eff9f6fd902e4de04b0c89b1213781d985a
