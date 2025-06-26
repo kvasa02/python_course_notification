@@ -107,9 +107,6 @@ python test_notification.py
 - Ensure your phone number includes country code
 - For macOS desktop notifications: Consider using Python 3.11 or 3.12 if experiencing issues
 
-## License
-
-This project is open source and available under the MIT License.
 
 =======
 # Python Course Notification
