@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Course Availability Notifier
 
 A Python-based course availability notifier that automatically monitors course registration websites and sends real-time alerts when spots become available.
